@@ -7,7 +7,7 @@ const projects = [
     id: 1,
     title: 'Brand',
     category: 'Marketing',
-    image: './assests/ui1.webp',
+    image: 'assests/ui1.webp',
     size: 'large'
   },
   {
